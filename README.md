@@ -1,6 +1,7 @@
 # 30 Days of Learning Go
 
-This repository contains the code I wrote while learning Go. I am following the [30 Days of Go](https://github.com/canro91/LetsGo?tab=readme-ov-file)
+This repository contains the code I wrote while learning Go.
+
 
 
 ## Day 0 (Installing Go, Hello world)
@@ -9,5 +10,7 @@ This repository contains the code I wrote while learning Go. I am following the 
 
 
 
+# Resources
+[30 Days of Go](https://github.com/canro91/LetsGo?tab=readme-ov-file)
 
 
