@@ -5,7 +5,7 @@ This repository contains the code I wrote while learning Go.
 
 
 ## Day 0 (Installing Go, Hello world)
-
+## Day 1 (Integers,Iteration)
 
 
 
